@@ -30,3 +30,8 @@ JWT_SECRET=your_secret_key
 
 4️⃣ Start the Server
 npm start
+
+
+
+📌 Postman 
+https://order-system.postman.co/workspace/Order-system-Workspace~8cba0c86-b162-475c-87ed-6bd152238f3b/collection/42862677-9568f836-50a5-4eed-8b17-50d0d939d1a1?action=share&creator=41851540&active-environment=42862677-4fdf1a7d-ae70-4eb8-a957-81a82ee13c9a
